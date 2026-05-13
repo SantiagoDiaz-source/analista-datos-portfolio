@@ -1,7 +1,7 @@
 ## Evaluación de Modelos predictivos en Machine Learning para la predicción de costos de viaje en UBER 
 
 ## Descripción
-El objetivo principal fue analizar los factores que influyen en el costo de los viajes y construir modelos de Machine Learning capaces de predecir el valor de una reserva (Booking Value) a partir de variables temporales, distancia del recorrido y características del servicio.
+El objetivo principal fue analizar los factores que influyen en el costo de los viajes y evaluar modelos de Machine Learning capaces de predecir el valor de una reserva (Booking Value) a partir de variables temporales, distancia del recorrido y características del servicio.
 Durante el proyecto se realizaron procesos de:
 
 - Limpieza e imputación de datos
