@@ -23,7 +23,7 @@ Durante el proyecto se realizaron procesos de:
 - **Registros:** 150,000 filas
 - **Variables analizadas:** Ride Distance,Booking Value,Vehicle Type, entre otras. 
 
-## 🔍 Hallazgos principales
+##  Hallazgos principales
 - Las variables temporales y la distancia del viaje tuvieron una alta influencia en la predicción del costo.
 - La ingeniería de características mejoró significativamente el rendimiento de los modelos.
 - XGBoost obtuvo el mejor desempeño general en las métricas de evaluación.
